@@ -1,0 +1,72 @@
+{
+  "project_info": {
+    "project_number": "229544763634",
+    "firebase_url": "https://fitness-clubeg.firebaseio.com",
+    "project_id": "fitness-clubeg",
+    "storage_bucket": "fitness-clubeg.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:229544763634:android:cd79a16aa3ee4193",
+        "android_client_info": {
+          "package_name": "io.fitness.club"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "229544763634-7a3v34eqfj5eo305l4213ffkn3oa4iqf.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "io.fitness.club",
+            "certificate_hash": "305affa78cad02429bc694afbbef0837a00afd24"
+          }
+        },
+        {
+          "client_id": "229544763634-l7kpsv2n0plncbkeautlc98jubfs2788.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "io.fitness.club",
+            "certificate_hash": "f813e05f32cbf77239906de5ea5ff2ee723d7896"
+          }
+        },
+        {
+          "client_id": "229544763634-mvpq1sar191cf27s475glf72eokh8rla.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "io.fitness.club",
+            "certificate_hash": "844d2106da26144af3ebefc349fe022002703564"
+          }
+        },
+        {
+          "client_id": "229544763634-ar9d8e45i9q6q1sunttpcb1bpu6d8bjb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD3UR7nhPkvbw4_o4ywUTGtoG9JMKV7_GE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "229544763634-ar9d8e45i9q6q1sunttpcb1bpu6d8bjb.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "229544763634-30lboe1l98kc26l2fk4bh4dpejkcdabu.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.the-coach.ios",
+                "app_store_id": "962194608"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

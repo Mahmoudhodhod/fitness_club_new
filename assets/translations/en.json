@@ -1,0 +1,522 @@
+{
+    "TEST_ONLY": {
+        "happy": "happy",
+        "computer95": "computer95",
+        "age": "age {}",
+        "name": "name {name}"
+    },
+    "currency": {
+        "SAR": "{} sar",
+        "EGP": "{} EGP",
+        "USD": "{} USD"
+    },
+    "about": {
+        "credits": "about app",
+        "team": "team",
+        "back_end": "back end",
+        "front_end": "front end",
+        "app_owner": "app owner",
+        "sounds": "sounds",
+        "thanks_to": "thanks toـ{}",
+        "visit_us": "visit us"
+    },
+    "general_titles": {
+        "app_title": "El Captain",
+        "continue": "continue",
+        "calculate": "calculate",
+        "add": "add",
+        "edit": "edit",
+        "next": "next",
+        "upload": "upload",
+        "confirm": "confirm",
+        "reload": "reload",
+        "ok": "ok",
+        "cancel": "cancel",
+        "close": "close",
+        "back": "back",
+        "reset": "reset",
+        "media_souce": "media source",
+        "images_library": "images library",
+        "camera_roll": "camera",
+        "loading": "loading",
+        "show_all": "show all",
+        "chat": {
+            "attachments": "attachments",
+            "image": "attach image",
+            "video": "attach video",
+            "voice_note": "attach voice note",
+            "copied": "copied",
+            "send_message": "send message...",
+            "no_rooms_found": "no chat found",
+            "sent_image": "image sent",
+            "sent_voice_note": "voice not sent",
+            "start_chat": "start chat",
+            "no_active_chats": "not chat history"
+        },
+        "g_gender": {
+            "title": "gender",
+            "male": "male",
+            "female": "female"
+        },
+        "day_off_rest": "rest day",
+        "ranges": {
+            "less": " less than {num}",
+            "from_to": "from {from} to {to}",
+            "or_above": "{num} more than "
+        },
+        "result": "result",
+        "age": "age",
+        "category": "category",
+        "copy": "copy",
+        "copied_to_clipboard": " copy",
+        "options": "options",
+        "optional": "(optional)",
+        "go_to_settings": "open sound settings",
+        "favorite": "favorite",
+        "how_we_calculate": "How do we calculate?",
+        "what_are_our_sources": "What are our sources?",
+        "where_certes": "Our trainers have the most prestigious training certificates to get the best results to maintain your health"
+    },
+    "search": {
+        "start": "search {query} ",
+        "no_results": "no result found",
+        "err_searching": " error search {query}"
+    },
+    "success": {
+        "data_update": {
+            "personal_info": "personal data added successfully ",
+            "password": " password is changed successfully"
+        },
+        "favorite": {
+            "create": "added to favorites",
+            "delete": "like engagement is deleted"
+        },
+        "deleted": "deleted success",
+        "created": "new program is made",
+        "email_verified": "your email is verified successfully",
+        "code_resent": "code has been resent",
+        "changed": "Done successfully",
+        "password_changed_successfuly": "new password is changed",
+        "payment_success": "Subscription was successful"
+    },
+    "error": {
+        "no_data_avaiable": "there is no data try again",
+        "error_happened": " something is wrong please try again ",
+        "error_happened_because": "  something is wrong  {cause} ,try again later ",
+        "retry": "retry",
+        "enter_valid": "enter the right data",
+        "login_error": "email or password is wrong",
+        "data_update": {
+            "personal_info": "data update failed try again",
+            "password": "new password updated failed try again"
+        },
+        "logout": "logout failed try again",
+        "validation": {
+            "required_field": "required data",
+            "required_image": "required image"
+        },
+        "apple_not_available": "Apple login is not working",
+        "wrong_code": "wrong code",
+        "verification": {
+            "user_not_verified": "verify your email to complete",
+            "not_verified_title": "your email is not verified",
+            "not_verified": "you didn't verify your email , we sent a code to your email please use it to verify "
+        },
+        "audio": {
+            "permission": "we need permission to apply your microphone"
+        }
+    },
+    "auth": {
+        "terms": {
+            "accept": "Accept",
+            "use": "use",
+            "and": "and",
+            "use_of_personal_data": "my personal data",
+            "info": {
+                "why_we_need_info": "we need these information",
+                "personal_info_explanation": "  we need these information for team",
+                "not_for_sale": "your data is not shared with anyone"
+            }
+        },
+        "general": {
+            "country": "Country",
+            "phone": "Phone",
+            "email": "Email",
+            "name": "Name",
+            "password": "Password",
+            "password_confirmation": "Confirm Password",
+            "validation": {
+                "required_field": "required information",
+                "invalid_email": "invalid email",
+                "weak_password": "password is weak",
+                "password_not_match": "password is not matched",
+                "invalid_phone": "wrong phone number",
+                "invalid_password": "wrong password"
+            },
+            "code_verification": {
+                "verify_email": "Verify your email",
+                "check_your_email": "  check the code on your email {email}",
+                "check_email": "check the code on your email",
+                "spam_wranging": " if you didn't find code check spam list"
+            }
+        },
+        "logout": {
+            "title": "Logout",
+            "are_you_sure": "Are you sure",
+            "are_you_sure_desc": "Are you sure for logging out ? "
+        },
+        "registation": {
+            "title": "Registration",
+            "accept_terms_of_service": "Accept terms of service",
+            "have_an_account": "Already have account?"
+        },
+        "login": {
+            "title": "Login",
+            "forget_password": "Forgot your password?",
+            "have_no_account": "Create new account"
+        },
+        "social": {
+            "sing_in_with_apple": "Login by Apple",
+            "sing_in_with_facebook": "Login by Facebook",
+            "sing_in_with_google": "Login by Google"
+        },
+        "password_recovery": {
+            "reset_passwrod": "Reset Password",
+            "resend_code": "Resend Code",
+            "can_resend_after": "You can resend code after  {time} minutes",
+            "change_password": "Change Password",
+            "new_password": "New Password",
+            "new_password_confirmation": "Confirm new password",
+            "enter_email": "Enter your email to send code"
+        },
+        "delete_account": {
+            "title": "Delete Account",
+            "are_you_sure": "Are you sure",
+            "are_you_sure_desc": "Are you sure for deleting your account? You will lose all your data",
+            "delete": "Delete"
+        },
+        "guest_user": {
+            "needs_login": {
+                "title": "Login now for free",
+                "description": "Login now to start enjoying all the features of our application."
+            },
+            "needs_payed_login": {
+                "title": "This feature requires you to be signed up with us to enjoy it",
+                "description": "Sign up now for free"
+            },
+            "login_now": "Login now",
+            "skip": "Skip"
+        }
+    },
+    "screens": {
+        "general": {
+            "comments": "Comments",
+            "comment": "Comment",
+            "likes": "Likes",
+            "loved_it": "Liked it",
+            "write_a_comment": " write a comment ...",
+            "be_first_commenter": "be first to share a comment",
+            "duration": "duration",
+            "duration_weeks": "{num} weeks",
+            "duration_months": "{num} months",
+            "exercise_r": {
+                "steps_and_reps": "sets and reps",
+                "exercise": "exercise",
+                "exercise_num": "{num} exercise",
+                "exercise_name": "exercise name",
+                "sets": "sets",
+                "repeats": "repeats",
+                "rest": "rest time",
+                "rest_time": "{time} second",
+                "exer_plan": "exercise system",
+                "sets_num": "sets: {num}",
+                "repeats_num": "repetition: {num} time",
+                "rest_duration": "rest time : {time} second",
+                "plan": "exercise system : {plan}",
+                "exercise_type": "exercise type",
+                "exercise_with_num": " exercise number #{num}",
+                "exercises": "exercises"
+            },
+            "body_part": "body part",
+            "description": "description",
+            "steps": "steps",
+            "week": "week",
+            "week_num": " week {num}",
+            "week_days": {
+                "Monday": "Monday",
+                "Tuesday": "Tuesday",
+                "Wednesday": "wednesday",
+                "Thursday": "Thursday",
+                "Friday": "Friday",
+                "Saturday": "Saturday",
+                "Sunday": "Sunday"
+            },
+            "free_day": "rest day",
+            "exercises": "exercises",
+            "exercises_num": "{num} exercise",
+            "speed": "exercises",
+            "commenting": {
+                "delete_comment": "delete comment"
+            }
+        },
+        "articles": {
+            "title": "Articles",
+            "search": "search for your favorite article..."
+        },
+        "power_training": {
+            "title": "Top Exercise"
+        },
+        "all_muscles": {
+            "title": "All Muscles",
+            "primary_muscle": " primary muscle",
+            "secondary_muscle": " assisted muscle",
+            "body_part": "body part",
+            "description": "description",
+            "steps": "steps"
+        },
+        "utilities": {
+            "title": "Tools",
+            "general": {
+                "goal": "goal",
+                "height": "height",
+                "weight": "weight",
+                "units": {
+                    "m": "meter",
+                    "km": "km",
+                    "cm": "cm",
+                    "g": "gm",
+                    "kg": "kg",
+                    "m_num": "{num} meter",
+                    "km_num": "{num} km",
+                    "cm_num": "{num} cm",
+                    "g_num": "{num} gm",
+                    "calory_num": "{num} calory",
+                    "kg_num": "{num} kg"
+                }
+            },
+            "calculators": {
+                "BMI_calc": {
+                    "title": "BMI calculator",
+                    "result": {
+                        "your_score": "Result",
+                        "range": "Range",
+                        "BMI_table": "BMI table",
+                        "category": {
+                            "title": "Category",
+                            "sev_under": "Very thin",
+                            "under": "Slim",
+                            "normal": "Normal",
+                            "over": "Over weight",
+                            "extreme": "Excessive obesity"
+                        }
+                    }
+                },
+                "protine_calc": {
+                    "title": "Protein calculator",
+                    "fitness_level": {
+                        "title": "Fitness level",
+                        "no_exercise": "No exercise",
+                        "low_level": {
+                            "title": "Low activity",
+                            "sub_title": "Running or session 2 per week "
+                        },
+                        "active_level": {
+                            "title": "High exercise",
+                            "sub_title": "Running or swimming or bike 5 hours per week"
+                        },
+                        "sports": {
+                            "title": "Sporty",
+                            "sub_title": " You do sports for 5 hours per week  "
+                        },
+                        "weight_training": {
+                            "title": "Weight training",
+                            "sub_title": "Training for muscle mass"
+                        }
+                    },
+                    "result": {
+                        "required_protein": "Required protein"
+                    }
+                },
+                "calories_calc": {
+                    "title": "Calory calculator",
+                    "dcn": "calories",
+                    "calory_num": "{num} calory ",
+                    "calory": "Calory ",
+                    "activity": {
+                        "title": "Activity",
+                        "select": "Select activity",
+                        "basic_metabolism": "Basic metabolism",
+                        "sendentary": " Simple : only activity at work",
+                        "light": "Low exercise level : training 1-3 days per week",
+                        "modrate": "Moderate level : training 3-5 days per week",
+                        "very_active": "Very active : training 6-7 days per week",
+                        "extra_active": "High intensity: training 6-7 days high intensity"
+                    },
+                    "result": {
+                        "title": "Results",
+                        "calo_loss_per_day": "Calories needed to lose {num} kg per week",
+                        "calo_gain_per_day": "Calories needed to gain {num} kg per week",
+                        "cal_to_mentain": "Calories to maintain (without exercising)"
+                    }
+                },
+                "fat_calc": {
+                    "title": "Fat calculator",
+                    "results": {
+                        "body_fat_persentage": "Body fat percentage",
+                        "fat_mass": "Fat mass",
+                        "lean_mass": "Lean mass",
+                        "table": {
+                            "under": "Low fat",
+                            "healthy": "Healthy",
+                            "over": "Over weight",
+                            "obese": "Excessive obesity",
+                            "essential_fat": "Essential fats",
+                            "atheletes": "Athletes",
+                            "fitness": "Fit",
+                            "average": "Intermediate"
+                        }
+                    }
+                },
+                "carbs_calc": {
+                    "title": "Carbohydrate calculator"
+                }
+            }
+        },
+        "plans": {
+            "title": "Workout Plans",
+            "my_plans": "My plans",
+            "goal": "Goal",
+            "requirment": "Requirement",
+            "target_group": "Exercise class",
+            "custom_plans": {
+                "title": "My own workouts",
+                "create_new": "Add new workout plan",
+                "add_work_out": "Add exercise",
+                "details": "Details",
+                "select_muscle": "Select Muscle",
+                "select_exercise": "Select Exercise",
+                "plan": {
+                    "name": "Name"
+                },
+                "new_week": {
+                    "title": "Add one more week",
+                    "content": "You can add new week for the program from here"
+                },
+                "reps_description": "You can set kind of exercises like superset (10-10) or pyramid set (12-10-8)",
+                "exercise_type": "Exercise type",
+                "select_exercise_type": "Choose exercise type",
+                "enter_valid_exercises": "Enter valid exercise",
+                "exercises_description": "These exercises are part of the workout",
+                "for_more_details": "To know what kinds of exercise program go to articles partition then join training basics"
+            }
+        }
+    },
+    "drawer": {
+        "settings": {
+            "title": "Settings",
+            "personal_info": "Personal Information",
+            "theme": {
+                "title": "App Theme",
+                "current_theme": "Current Theme",
+                "system": "System Theme",
+                "light": "Light Theme",
+                "dark": "Dark Theme"
+            },
+            "change_lang": {
+                "title": "Change Language",
+                "Arabic": "Arabic",
+                "English": "English",
+                "note": "Note: The app will restart to apply the changes."
+            },
+            "privacy_policy": "Privacy Policy",
+            "terms_of_service": "Terms of Service",
+            "text_scale": {
+                "title": "Writing Size",
+                "dummy_messages": {
+                    "question": "How to change writing size",
+                    "answer": "Change the number from down!"
+                }
+            },
+            "change_theme_color": {
+                "title": "Change theme color",
+                "select_color": "Select color",
+                "reset": "Reset"
+            }
+        },
+        "contact_us": "Contact Us",
+        "rate_app": "Rate the App",
+        "chat_with_coach": "Chat with captain",
+        "chat_with_users": "Chat with users",
+        "share_app": "Share the app"
+    },
+    "payment": {
+        "subscription_expired": {
+            "title": "Subscriptions is out",
+            "description": "Free trial is out , we are happy to help you and become with us just choose your plan",
+            "subscribe_again": "Subscribe again"
+        },
+        "subscribed": {
+            "title": "You are now in subscription period",
+            "cancel_subscription": "Cancel subscription",
+            "details": {
+                "title": "Membership details",
+                "name": "",
+                "price": "",
+                "started_at": "Start at {date}",
+                "end_at": "Renewal date {date}"
+            }
+        },
+        "general": {
+            "subscriptions": "Memberships",
+            "remove_ads": "Subscribe to enjoy the app without ads",
+            "subscribe_now": "Subscribe now",
+            "go_to_subscription": "Go for subscription",
+            "you_have": "You have",
+            "in_free_trial": "You are using free trial",
+            "of_free_days": "For seven days free trial",
+            "after_the_free_period": "We are happy for you to complete your journey with us after the free period ends and activate the subscription to use the application again.",
+            "enjoy_completely": "Enjoy a completely free trial for a limited time.",
+            "titles": {
+                "no_packages_found": "No membership is found"
+            },
+            "vip_dialog": {
+                "title": "Vip Feature",
+                "content": "To chat with the captain, Remove Ads and Enjoy coaching features, we are happy to have you with us",
+                "subscribe": "Subscribe Now"
+            },
+            "manage_subscription": "Manage subscription"
+        },
+        "plans": {
+            "promotions": {
+                "27_per_year": "Start now for 27 Dollar/year "
+            }
+        },
+        "free_trial_reminding_dialog": {},
+        "free_trail_ended": {
+            "title": "Free trial is out",
+            "content": "We are happy to help you and become with us just choose your plan",
+            "continue_with_ads": "Continue with ads"
+        }
+    },
+    "app_rating": {
+        "title": "Rate El Captain App",
+        "content": "How was your experience with the app?",
+        "comment": "Write your comment",
+        "rate": "Rate",
+        "later": "Later"
+    },
+    "showcase": {
+        "bottom_nav_bar": {
+            "articles": "More than 100 articles about exercise, nutrition and fitness",
+            "power_exercises": "The strongest set of exercises for each muscle",
+            "plans": "More than 50 exercise schedules for various goals and levels",
+            "muscles": "Complete video exercise library (700 exercises)",
+            "utilities": "Calories and nutrients calculators"
+        },
+        "drawer": {
+            "drawer_icon": "To chat with the captain and change the application settings",
+            "my_plans": "Create your own plan that suits your goals and appointments",
+            "contact_capitan": "Chat with the captain and get advice from him"
+        }
+    }
+}

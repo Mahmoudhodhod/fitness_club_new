@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>229544763634-egbj8vltj1qnup1cnqvj7mi6bgm4nh2c.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.229544763634-egbj8vltj1qnup1cnqvj7mi6bgm4nh2c</string>
+	<key>ANDROID_CLIENT_ID</key>
+	<string>229544763634-7a3v34eqfj5eo305l4213ffkn3oa4iqf.apps.googleusercontent.com</string>
+	<key>API_KEY</key>
+	<string>AIzaSyD3QivyZZZFmAVd-as0wQqzN0fMsxGMPXk</string>
+	<key>GCM_SENDER_ID</key>
+	<string>229544763634</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>io.fitness.club</string>
+	<key>PROJECT_ID</key>
+	<string>fitness-clubeg</string>
+	<key>STORAGE_BUCKET</key>
+	<string>fitness-clubeg.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:229544763634:ios:6c94db09aa8975c0d1b06b</string>
+	<key>DATABASE_URL</key>
+	<string>https://fitness-clubeg.firebaseio.com</string>
+</dict>
+</plist>

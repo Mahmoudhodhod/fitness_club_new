@@ -1,0 +1,25 @@
+# Flutter/Dart
+.dart_tool/
+.packages
+.pub/
+.buildlog
+.pub-cache/
+.build/
+.flutter-plugins
+.flutter-plugins-dependencies
+.idea/
+.android/
+.ios/
+.web/
+*.iml
+*.log
+
+# VS Code
+.vscode/
+
+# macOS
+.DS_Store
+
+# Keystore & signing config (keep them private)
+android/app/my-release-key.jks
+android/key.properties

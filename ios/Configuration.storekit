@@ -1,0 +1,135 @@
+{
+  "identifier" : "23ECAC06",
+  "nonRenewingSubscriptions" : [
+
+  ],
+  "products" : [
+
+  ],
+  "settings" : {
+
+  },
+  "subscriptionGroups" : [
+    {
+      "id" : "FA23C252",
+      "localizations" : [
+
+      ],
+      "name" : "App Subscriptions",
+      "subscriptions" : [
+        {
+          "adHocOffers" : [
+
+          ],
+          "displayPrice" : "0.99",
+          "familyShareable" : false,
+          "groupNumber" : 1,
+          "internalID" : "8D462E1F",
+          "introductoryOffer" : null,
+          "localizations" : [
+            {
+              "description" : "Get access to all features",
+              "displayName" : "1 Month Subscription",
+              "locale" : "en_US"
+            },
+            {
+              "description" : "احصل علي كل الميزات",
+              "displayName" : "اشتراك شهر واحد",
+              "locale" : "ar"
+            }
+          ],
+          "productID" : "membership_10_1",
+          "recurringSubscriptionPeriod" : "P1M",
+          "referenceName" : "1 month sub",
+          "subscriptionGroupID" : "FA23C252",
+          "type" : "RecurringSubscription"
+        },
+        {
+          "adHocOffers" : [
+
+          ],
+          "displayPrice" : "5.99",
+          "familyShareable" : false,
+          "groupNumber" : 1,
+          "internalID" : "69AC727B",
+          "introductoryOffer" : null,
+          "localizations" : [
+            {
+              "description" : "Get access to all features",
+              "displayName" : "3 Months Subscription",
+              "locale" : "en_US"
+            },
+            {
+              "description" : "احصل علي كل الميزات",
+              "displayName" : "اشتراك لثلاث اشهر",
+              "locale" : "ar"
+            }
+          ],
+          "productID" : "membership_2.6_3",
+          "recurringSubscriptionPeriod" : "P3M",
+          "referenceName" : "3 months Sub",
+          "subscriptionGroupID" : "FA23C252",
+          "type" : "RecurringSubscription"
+        },
+        {
+          "adHocOffers" : [
+
+          ],
+          "displayPrice" : "20.99",
+          "familyShareable" : false,
+          "groupNumber" : 1,
+          "internalID" : "38AD1A5C",
+          "introductoryOffer" : null,
+          "localizations" : [
+            {
+              "description" : "Get access to all features",
+              "displayName" : "6 Months Subscription",
+              "locale" : "en_US"
+            },
+            {
+              "description" : "احصل علي كل الميزات",
+              "displayName" : "اشتراك لست اشهر",
+              "locale" : "ar"
+            }
+          ],
+          "productID" : "membership_4.55_6",
+          "recurringSubscriptionPeriod" : "P6M",
+          "referenceName" : "6 months sub",
+          "subscriptionGroupID" : "FA23C252",
+          "type" : "RecurringSubscription"
+        },
+        {
+          "adHocOffers" : [
+
+          ],
+          "displayPrice" : "59.99",
+          "familyShareable" : false,
+          "groupNumber" : 1,
+          "internalID" : "6E617AFA",
+          "introductoryOffer" : null,
+          "localizations" : [
+            {
+              "description" : "Get access to all features",
+              "displayName" : "1 Year Subscription",
+              "locale" : "en_US"
+            },
+            {
+              "description" : "احصل علي كل الميزات",
+              "displayName" : "اشتراك لسنة",
+              "locale" : "ar"
+            }
+          ],
+          "productID" : "member_7.96_12",
+          "recurringSubscriptionPeriod" : "P1Y",
+          "referenceName" : "1 year sub",
+          "subscriptionGroupID" : "FA23C252",
+          "type" : "RecurringSubscription"
+        }
+      ]
+    }
+  ],
+  "version" : {
+    "major" : 1,
+    "minor" : 1
+  }
+}
